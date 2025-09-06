@@ -21,15 +21,17 @@ Follow these steps to run the project locally:
 cd frontend
 
 
+3. Install dependencies
+npm install
+
+4. Start the development server
+npm start
+
+
 demo:
 
 https://github.com/user-attachments/assets/87516f00-2153-465e-af67-2916826bda5d
 
 
 
-3. Install dependencies
-npm install
-
-4. Start the development server
-npm start
 
