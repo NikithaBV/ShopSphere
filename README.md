@@ -10,3 +10,26 @@ A modern shopping app showcasing collections of latest clothes for men, women, a
 - React (Frontend)  
 - JavaScript / HTML / CSS  
 
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+   git clone https://github.com/your-username/shopsphere.git
+   cd shopsphere
+   
+2. Navigate to frontend folder
+cd frontend
+
+
+demo:
+
+https://github.com/user-attachments/assets/87516f00-2153-465e-af67-2916826bda5d
+
+
+
+3. Install dependencies
+npm install
+
+4. Start the development server
+npm start
+
